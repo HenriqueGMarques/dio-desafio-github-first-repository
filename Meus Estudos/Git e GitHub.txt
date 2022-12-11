@@ -1,0 +1,1 @@
+Neste Projeto aprendemos a lidar com Git Bash e a organizacao dos estudos.
